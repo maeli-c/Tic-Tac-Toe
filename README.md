@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-TP QCM avec Sonar
+TP QCM: codage d'un tic tac toe pour ensuite évaluer la couverture de tests avec Sonar
